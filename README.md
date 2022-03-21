@@ -15,7 +15,7 @@ Software Requirements:
 
 Sending Alerts:
 - Edit the ```sampleconf.py``` file with API keys, Device ID, email ID, Auth_Token, SSID, etc
-- link the configuration file to code in order to connect though API keys
+- link the configuration file to code in order to connect through API keys
 - Run code to test custom alert messages sent across email, SMS and via telegram
 - Add a threshold value to receive alerts in case the Temperature crosses the value
 
