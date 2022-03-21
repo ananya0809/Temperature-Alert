@@ -24,7 +24,7 @@ Temperature Prediction:
 
 2. **No. Polynomial coefficients:** Polynomial Visualizer processes the given input time-dependent data, and outputs the coefficients of the function of the form:
 which most closely resembles the trend in the input data. This number tells the Visualizer how many elements should be present in the function i.e. the value of n.
-![img.png](https://github.com/ananya0809/Temperature-Alert/blob/master/readme%20images/img.png)
+![Polynomial Regression Formula](https://github.com/ananya0809/Temperature-Alert/blob/master/readme%20images/img.png)
 3. **Frame Size:** These are the number of previous data points the Visualizer will use to predict the trend of the data. For example, if you set this value to 5, the Visualizer will use the previous 5 points to predict the trend.
 
-![img_1.png](https://github.com/ananya0809/Temperature-Alert/blob/master/readme%20images/img_1.png)
+![Line Graph on Temp Prediction](https://github.com/ananya0809/Temperature-Alert/blob/master/readme%20images/img_1.png)
